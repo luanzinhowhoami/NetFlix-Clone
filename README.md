@@ -3,7 +3,7 @@
 ### Clone da Home Page da NetFlix
 
 ---
-- [] ok
+- [ ] ok
 
 - este clone foi criado usando as tecnologias (HTML5, CSS3, JavaScript, Jquery, OWL Carousel);
 
